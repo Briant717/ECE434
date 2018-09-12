@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import turtle
 turt  = turtle.Turtle() #Create the turtle
 win = turtle.Screen() #create window for the turtle
