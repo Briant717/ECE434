@@ -3,7 +3,7 @@
 3. hw2-toggle.py is the toggle program I used for the oscilliscope.
 4. HW2.docx is the chart and data for the oscilliscope readings.
 
-
+All buttons and LEDs all work properly.
 
 ========================
 Professor Yoder's Comments
@@ -12,3 +12,4 @@ Looks good.  Your CPU usage percents seem low for the rates you were running.
 Could your recheck?
 
 Score:10/10
+=======
