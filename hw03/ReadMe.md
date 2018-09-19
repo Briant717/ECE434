@@ -5,3 +5,12 @@
 5. encoder on 41 and 42 go left and right
 6. code must be exited to clear.
 7. hw03 turned in during class Monday, 9/17/18. Was only updating ReadMe and commenting code during class.
+
+
+========================
+Professor Yoder's Comments
+
+Looks good.  I assuem the encoders on on P8.
+Include a setup.sh to configure the pins.
+
+Score:10/10
