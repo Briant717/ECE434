@@ -2,3 +2,14 @@
 2. hw2-2.py uses buttons to control etch-a-sketch.  Button on 20 goes left, button on 21 goes right, button on 22 goes up, and button on 23 goes down.
 3. hw2-toggle.py is the toggle program I used for the oscilliscope.
 4. HW2.docx is the chart and data for the oscilliscope readings.
+
+All buttons and LEDs all work properly.
+
+========================
+Professor Yoder's Comments
+
+Looks good.  Your CPU usage percents seem low for the rates you were running.
+Could your recheck?
+
+Score:10/10
+=======
