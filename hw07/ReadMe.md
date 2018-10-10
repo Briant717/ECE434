@@ -10,3 +10,12 @@
 ![Button on board pressed with LED on phone off](https://github.com/Briant717/ECE434/tree/master/hw07/pics/IMG951370.jpg "Button on board pressed with LED on phone off")
 
 ![Button on board not pressed with LED on phone on](https://github.com/Briant717/ECE434/tree/master/hw07/pics/IMG951371.jpg "Button on board not pressed with LED on phone on")
+
+========================
+Professor Yoder's Comments
+
+Project Wiki missing.
+
+Nice photos.
+
+Score:  9/10
