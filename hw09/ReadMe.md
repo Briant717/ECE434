@@ -18,3 +18,14 @@ Loop unrolling allows for a speed up about 6x as fast.
 
 ![Reading an Input at Regular Intervals](https://github.com/Briant717/ECE434/tree/master/hw09/pics/scope_7.png "Reading an Input at Regular Intervals")
 The input and the output are about 44ns apart.
+
+========================
+Professor Yoder's Comments
+
+I expect jitter in the 2.6 part.    What's the standard deviation in the 5.3 part?
+
+5.4, what's the highest frequency?
+
+You missed a couple of things, otherwise it looks good.
+
+Score:  9/10
